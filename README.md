@@ -1,2 +1,3 @@
-# blossom
-Blossom is SOTA library for Any Problems
+Blossom is an experiment Active learning in Text Classification problem.
+
+
