@@ -1,0 +1,16 @@
+intent,description
+greet,chào hỏi
+query_knowledge_base,Là phần hỏi đáp về sản phẩm
+thank,cám ơn
+agree,đồng ý 
+disagree,không đồng ý 
+connect_employee,mong muốn liên hệ trò chuyện với nhân viên tư vấn của shop
+ask_is_bot,hỏi có phải bot không?
+handoff_human,"Yêu cầu tư vấn (không nói cụ thể);
+                             Yêu cầu so sánh giữa các sản phẩm so sánh giữa các trang TMĐT;
+                             Hỏi thời gian vận chuyển giao hàng;
+                             Yêu cầu huỷ đơn hàng; Đổi trả sản phẩm;
+                             Thanh lý sản phẩm;
+                             Quá khó bot không trả lời được;
+                             Cấu trúc câu phức tạp;
+                             Các trường hợp khác không phân loại vào 8 intent trên"
